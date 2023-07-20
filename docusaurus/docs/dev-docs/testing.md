@@ -185,7 +185,7 @@ If you receive a timeout error for Jest, please add the following line right bef
 ## Test a basic endpoint controller
 
 :::tip
-In the example we'll use and example `Hello world` `/hello` endpoint from [controllers](/dev-docs/backend-customization/controllers) section.
+In the example we'll use an example `Hello world` `/hello` endpoint from [controllers](/dev-docs/backend-customization/controllers) section.
 <!-- the link below is reported to have a missing hash by the check-links plugin, but everything is fine 🤷 -->
 :::
 
